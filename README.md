@@ -16,15 +16,15 @@
 <br><br>
 
 
-### [시작하기에 앞서](/시작하기에%20앞서.Md)
+### [시작하기에 앞서](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/시작하기에-앞서)
 
-### [초보자를 위한 파이썬 설치 가이드](/초보자를%20위한%20파이썬%20설치%20가이드.md)
+### [초보자를 위한 파이썬 설치 가이드](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/초보자를-위한-파이썬-설치-가이드)
 
-### [하드웨어 설명](/하드웨어%20설명.md)
+### [하드웨어 설명](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/하드웨어-설명)
 <br>
 
 
-# [생성 및 해제](/생성%20및%20해제.md)
+# [생성 및 해제](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/생성-및-해제)
 
 <details>
     <summary>
@@ -247,8 +247,8 @@
 
 <details>
     <summary>
-        <a href="https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/버튼#pick-버튼">
-            Pick 버튼
+        <a href="https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/버튼#teach-버튼">
+            Teach 버튼
         </a>
     </summary>
 
@@ -273,8 +273,8 @@
 
 <details>
     <summary>
-        <a href="https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/버튼#erase-버튼">
-            Erase 버튼
+        <a href="https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/버튼#delete-버튼">
+            Delete 버튼
         </a>
     </summary>
 
@@ -331,14 +331,6 @@
 </details>
 
 <br><br>
-
->이 설명서의 정보는 사전 통지 없이 변경될 수 있으며 로보메이션은 해당 정보에 어떠한 책임도 지지 않습니다.<br> 
-로보메이션은 이 설명서에 나타날 수 있는 어떠한 오류에도 책임을 지지 않습니다.<br>
-이 설명서에 명시적으로 표기된 경우를 제외하고, 이 설명서의 어떠한 내용도 로보메이션이 인명 또는 재산 손실,<br>
-손상 또는 특정 목적에의 적합성에 대한 보장이나 보증을 하는 것으로 해석될 수 없습니다.<br>
-로보메이션은 어떠한 경우에도 이 설명서와 여기에 설명된 제품을 사용하여 발생하는 우발적 또는 결과적 손해에 대해<br>
-책임을 지지 않습니다.
-로보메이션의 서면 승인 없이 이 설명서와 설명서의 일부를 재생산하거나 복사할 수 없습니다.<br>
 
 ><a href="https://www.robomation.net" target="_blank">www.robomation.net</a><br>
 `roboid version-1.7.3`
