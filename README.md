@@ -1,4 +1,4 @@
-# RaccoonBot Python API 메뉴얼
+# 라쿤봇 Python API 메뉴얼
 
 <br>
 
@@ -6,7 +6,7 @@
 
 <br>
 
-**RaccoonBot** 사용자들을 위한 [Python API Wiki](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki)입니다.
+**라쿤봇** 사용자들을 위한 [Python API Wiki](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki)입니다.
 
 
 이 문서는 로보메이션의 **라쿤봇**을 **Python**으로 프로그래밍하려는 사용자를 위한 **API 메뉴얼**입니다. 
