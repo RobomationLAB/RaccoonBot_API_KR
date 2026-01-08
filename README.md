@@ -336,28 +336,49 @@
 
 # [API 활용 예제](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제)
 
-[**1. 관절 범위 확인**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#1-관절-범위-확인)  
-[**2. 관절 제어 모드**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#2-관절-제어-모드)  
-[**3. 관절 기본 위치**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#3-관절-기본-위치)  
-[**4. 관절 속도 제어 1**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#4-관절-속도-제어-1)  
-[**5. 관절 속도 제어 2**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#5-관절-속도-제어-2)  
-[**6. 관절 가감속 제어 1**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#6-관절-가감속-제어-1)  
-[**7. 관절 가감속 제어 2**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#7-관절-가감속-제어-2)  
-[**8. 관절 각도 제어 1**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#8-관절-각도-제어-1)  
-[**9. 관절 각도 제어 2**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#9-관절-각도-제어-2)  
-[**10. 관절 각도 제어 속도**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#10-관절-각도-제어-속도)  
-[**11. 관절 각도 저장**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#11-관절-각도-저장)  
-[**12. 말단 장치 제어**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#12-말단-장치-제어)  
-[**13. 말단 장치 고정 - 수평**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#13-말단-장치-고정---수평)  
-[**14. 말단 장치 고정 - 수직**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#14-말단-장치-고정---수직)  
-[**15. 말단 장치 고정 - 속도**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#15-말단-장치-고정---속도)  
-[**16. 말단 장치 고정 - 각도**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#16-말단-장치-고정---각도)  
-[**17. 버저 - 음정 제어**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#17-버저---음정-제어)  
-[**18. 버저 - 멜로디 제어**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#18-버저---멜로디-제어)  
-[**19. 버튼 입력 제어**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#19-버튼-입력-제어)  
-[**20. 내부 센서**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#20-내부-센서)  
-[**21. XYZ 좌표 이동 1**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#21-xyz-좌표-이동-1)  
-[**22. XYZ 좌표 이동 2**](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#22-xyz-좌표-이동-2)  
+[1. 관절 범위 확인](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#1-관절-범위-확인)  
+
+[2. 관절 제어 모드](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#2-관절-제어-모드)  
+
+[3. 관절 기본 위치](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#3-관절-기본-위치)  
+
+[4. 관절 속도 제어 1](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#4-관절-속도-제어-1)  
+
+[5. 관절 속도 제어 2](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#5-관절-속도-제어-2)  
+
+[6. 관절 가감속 제어 1](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#6-관절-가감속-제어-1)  
+
+[7. 관절 가감속 제어 2](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#7-관절-가감속-제어-2)  
+
+[8. 관절 각도 제어 1](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#8-관절-각도-제어-1)  
+
+[9. 관절 각도 제어 2](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#9-관절-각도-제어-2)  
+
+[10. 관절 각도 제어 속도](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#10-관절-각도-제어-속도)  
+
+[11. 관절 각도 저장](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#11-관절-각도-저장)  
+
+[12. 말단 장치 제어](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#12-말단-장치-제어)  
+
+[13. 말단 장치 고정 - 수평](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#13-말단-장치-고정---수평)  
+
+[14. 말단 장치 고정 - 수직](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#14-말단-장치-고정---수직)  
+
+[15. 말단 장치 고정 - 속도](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#15-말단-장치-고정---속도)  
+
+[16. 말단 장치 고정 - 각도](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#16-말단-장치-고정---각도)  
+
+[17. 버저 - 음정 제어](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#17-버저---음정-제어)  
+
+[18. 버저 - 멜로디 제어](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#18-버저---멜로디-제어)  
+
+[19. 버튼 입력 제어](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#19-버튼-입력-제어)  
+
+[20. 내부 센서](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#20-내부-센서)  
+
+[21. XYZ 좌표 이동 1](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#21-xyz-좌표-이동-1)  
+
+[22. XYZ 좌표 이동 2](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/API-활용-예제#22-xyz-좌표-이동-2)  
 
 <br><br>
 
